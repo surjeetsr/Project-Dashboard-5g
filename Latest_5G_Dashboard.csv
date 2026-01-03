@@ -1742,7 +1742,6 @@ AP,IBP016_HYD_P40,Dec 16 2025 12:14PM,Drive Completed,NO,PASS,1,1,Uploaded
 UW,TUML03_MAT_P40,Dec 16 2025  4:24PM,Drive Completed,NO,FAIL,1,1,Uploaded
 BH,BHWET-02_2_PAT_P40,Dec 16 2025  4:39PM,Drive Completed,NO,FAIL,2,1,Uploaded
 BH,BHBHA-165_1_PAT_P41,Dec 16 2025  4:57PM,Drive Completed,NO,FAIL,2,1,Uploaded
-KL,ALP154_1_ALP_P40,Dec 16 2025  5:51PM,Drive Completed,NO,FAIL,1,1,Uploaded
 AP,HY9424_HYD_P40,Dec 16 2025  6:40PM,Drive Completed,NO,FAIL,2,1,Uploaded
 MP,MPID9010_IND_P40,Dec 16 2025  8:04PM,Drive Completed,NO,PASS,2,1,Uploaded
 MP,MPID8776_IND_P40,Dec 16 2025 10:21PM,Drive Completed,NO,PASS,2,1,Uploaded
@@ -1799,7 +1798,6 @@ PB,LBSK375_SNR_P40,Dec 20 2025  6:02PM,Drive Completed,NO,Log Count Mismatch,2,1
 GJ,GU3373_GJ_P40,Dec 20 2025  6:16PM,Drive Completed,NO,PASS,2,1,Uploaded
 BH,BHFOR-29_PAT_P40,Dec 20 2025  6:50PM,Drive Completed,NO,FAIL,2,1,Uploaded
 MP,CGBL3870_BIL_P40,Dec 20 2025  7:25PM,Drive Completed,NO,PASS,2,1,Uploaded
-PB,CHDK24_MOG_P40,Dec 20 2025  7:34PM,Drive Completed,NO,FAIL,1,1,Uploaded
 GJ,GU3153_GJ_P40,Dec 20 2025  7:35PM,Drive Completed,NO,PASS,2,1,Uploaded
 RJ,AJJP02_JPR_P40,Dec 20 2025  8:07PM,Drive Completed,NO,FAIL,1,1,Uploaded
 GJ,GU3849_GJ_P40,Dec 20 2025  9:02PM,Drive Completed,NO,PASS,2,1,Uploaded
@@ -1834,15 +1832,14 @@ OR,ORIDR-03_GJM_P41,Dec 23 2025  4:21PM,Drive Completed,NO,FAIL,1,1,Uploaded
 GJ,GU4112_GJ_P40,Dec 23 2025  5:40PM,Drive Completed,NO,PASS,2,1,Uploaded
 TN,VRCM53_VLP_P40,Dec 23 2025  6:22PM,Drive Completed,NO,FAIL,1,1,Uploaded
 BH,BHBHA-235_PAT_P41,Dec 23 2025  6:28PM,Drive Completed,NO,FAIL,2,1,Uploaded
-MH,DAR4514_AMI_P40,Dec 23 2025  8:57PM,Drive Completed,NO,FAIL,3,1,Uploaded
 TN,MTR053_SAL_P40,Dec 23 2025  9:36PM,Drive Completed,NO,FAIL,1,1,Uploaded
 KK,BG1148_BLG_P40,Dec 23 2025 10:35PM,Drive Completed,NO,PASS,2,1,Uploaded
 MP,CGBL3691_BIL_P40,Dec 24 2025 12:22AM,Drive Completed,NO,PASS,2,1,Uploaded
 AP,WAR456_WAR_P40,Dec 24 2025 10:32AM,Partial Closed,NO,Partial Closed,1,1,Not Uploaded
 BH,BHBHA-228_PAT_P40,Dec 24 2025  1:45PM,Drive Completed,NO,FAIL,2,1,Uploaded
 UW,DHAR02_AGR_P40,Dec 24 2025  2:53PM,Drive Completed,NO,FAIL,1,1,Uploaded
-KK,BG1068_BEN_P40,Dec 24 2025  4:11PM,Drive Completed,NO,PASS,2,1,Uploaded
 KL,POTA05_TSR_P40,Dec 24 2025  4:11PM,Drive Completed,YES,Missing Test Case,1,1,Uploaded
+KK,BG1068_BEN_P40,Dec 24 2025  4:11PM,Drive Completed,NO,PASS,2,1,Uploaded
 CH,KOLA53_CHN_P41,Dec 24 2025  5:25PM,Drive Completed,YES,Missing Test Case,3,1,Uploaded
 PB,SING56_AMS_P40,Dec 24 2025  5:38PM,Drive Completed,NO,FAIL,1,1,Uploaded
 KL,MONK13_TVM_P40,Dec 24 2025  6:08PM,Drive Completed,YES,Missing Test Case,1,1,Uploaded
@@ -1868,7 +1865,7 @@ BH,BHHAJ-103_PAT_P41,Dec 26 2025  4:35PM,Drive Completed,NO,FAIL,2,1,Uploaded
 MH,PUN6428_PNE_P40,Dec 26 2025  4:45PM,Drive Completed,NO,PASS,2,1,Uploaded
 BH,BHDAL-25_PAT_P41,Dec 26 2025  5:06PM,Drive Completed,NO,FAIL,2,1,Uploaded
 RJ,VJKN02_JPR_P40,Dec 26 2025  5:08PM,Drive Completed,NO,FAIL,4,1,Uploaded
-BH,BHMZI-02_PAT_P41,Dec 26 2025  5:50PM,Drive Completed,NO,FAIL,2,1,Uploaded
+BH,BHMZI-02_PAT_P41,Dec 26 2025  5:50PM,Partial Closed,NO,Partial Closed,2,1,Uploaded
 GJ,GU3747_GJ_P40,Dec 26 2025  6:16PM,Drive Completed,NO,PASS,2,1,Uploaded
 GJ,GU3839_GJ_P40,Dec 26 2025  7:43PM,Drive Completed,NO,PASS,2,1,Uploaded
 KL,PKD175_PKD_P40,Dec 26 2025  7:44PM,Drive Completed,NO,FAIL,1,1,Uploaded
@@ -1939,7 +1936,6 @@ GJ,GX0433_GJ_P40,Dec 31 2025 12:19PM,Drive Completed,NO,PASS,2,1,Uploaded
 HR,FTB400_HR_P40,Dec 31 2025  1:43PM,Drive Completed,YES,Missing Test Case,2,1,Uploaded
 HP,BADH50_KNG_P40,Dec 31 2025  1:55PM,Drive Completed,NO,PASS,1,1,Uploaded
 KL,ALP138_ALP_P40,Dec 31 2025  2:42PM,Drive Completed,NO,FAIL,1,1,Uploaded
-MH,PUN6312_PNE_P40,Dec 31 2025  2:49PM,Drive Completed,NO,PASS,2,1,Uploaded
 MP,MPID7822_IND_P40,Dec 31 2025  3:13PM,Drive Completed,NO,PASS,4,1,Uploaded
 MH,PUN6450_PNE_P40,Dec 31 2025  3:17PM,Drive Completed,NO,PASS,3,1,Uploaded
 MH,PUN3567_PNE_P40,Dec 31 2025  3:17PM,Drive Completed,NO,PASS,2,1,Uploaded
@@ -1948,16 +1944,25 @@ MH,AGB3807_AUR_P40,Dec 31 2025  4:34PM,Drive Completed,NO,PASS,3,1,Uploaded
 MH,KUR5146_SLP_P40,Dec 31 2025  4:34PM,Drive Completed,NO,PASS,3,1,Uploaded
 PB,MGGR34_PTL_P40,Dec 31 2025  5:38PM,Drive Completed,YES,Missing Test Case,1,1,Not Uploaded
 PB,LMGGR34_PTL_P40,Dec 31 2025  5:38PM,WIP,NO,Site-WIP,1,1,Uploaded
-MH,THN3302_THA_P40,Dec 31 2025  6:14PM,Drive Completed,NO,PASS,2,1,Uploaded
 MH,ULS4689_VSI_P40,Dec 31 2025  6:14PM,Drive Completed,NO,PASS,2,1,Uploaded
+MH,THN3302_THA_P40,Dec 31 2025  6:14PM,Drive Completed,NO,PASS,2,1,Uploaded
 MH,CNP3596_NGP_P40,Dec 31 2025  6:29PM,Drive Completed,NO,PASS,2,1,Uploaded
-PB,DLKN30_FZP_P40,Dec 31 2025  6:35PM,Drive Completed,NO,FAIL,2,1,Uploaded
-KL,KVLL13_1_TSR_P40,Dec 31 2025  7:35PM,Drive Completed,YES,Missing Test Case,1,1,Not Uploaded
 MU,MB2854_MUM_P41,Dec 31 2025  7:59PM,Drive Completed,YES,Missing Test Case,1,1,Not Uploaded
 KL,CHRP07_1_TSR_P40,Dec 31 2025  8:04PM,Drive Completed,YES,Missing Test Case,1,1,Uploaded
 RJ,GNGR14_JPR_P40,Dec 31 2025  8:35PM,Drive Completed,NO,FAIL,2,1,Uploaded
 BH,BHDHA-167_PAT_P40,Jan  1 2026  2:50PM,Drive Completed,NO,FAIL,2,1,Uploaded
-MP,CGBL3886_BIL_P40,Jan  2 2026  8:39AM,Drive Completed,YES,Missing Test Case,3,1,Uploaded
-MP,MPGW7517_GWL_P40,Jan  2 2026 10:15AM,WIP,NO,Site-WIP,2,1,Uploaded
-MP,CGBL3885_BIL_P40,Jan  2 2026 10:25AM,WIP,NO,Site-WIP,1,1,Uploaded
-MH,PUN6465_PNE_P40,Jan  2 2026 11:11AM,WIP,NO,Site-WIP,3,1,Uploaded
+MP,CGBL3885_BIL_P40,Jan  2 2026 10:25AM,WIP,NO,Site-WIP,2,1,Uploaded
+CH,KATH13_CHN_P40,Jan  2 2026 12:51PM,WIP,NO,Site-WIP,1,1,Not Uploaded
+MH,DAR4514_AMI_P40,Jan  2 2026 12:57PM,Drive Completed,NO,FAIL,3,1,Uploaded
+KL,KVLL13_1_TSR_P40,Jan  2 2026  1:38PM,Drive Completed,NO,FAIL,1,1,Uploaded
+MH,PUN6312_PNE_P40,Jan  2 2026  2:48PM,Drive Completed,NO,PASS,2,1,Uploaded
+BH,BHMPT-02_PAT_P40,Jan  2 2026  2:52PM,Drive Completed,NO,FAIL,2,1,Uploaded
+PB,CHDK24_MOG_P40,Jan  2 2026  3:06PM,Drive Completed,NO,PASS,1,1,Uploaded
+MH,PUN6465_PNE_P40,Jan  2 2026  4:07PM,WIP,NO,Site-WIP,3,1,Uploaded
+MP,CGBL3886_BIL_P40,Jan  2 2026  4:57PM,Drive Completed,NO,PASS,4,1,Uploaded
+PB,DLKN30_FZP_P40,Jan  2 2026  6:36PM,Drive Completed,NO,FAIL,2,1,Uploaded
+TN,PKT290_TVL_P40,Jan  2 2026  6:51PM,Drive Completed,NO,FAIL,1,1,Uploaded
+MP,MPGW7517_GWL_P40,Jan  2 2026  8:45PM,Drive Completed,NO,PASS,2,1,Uploaded
+KL,TSR282_1_TSR_P40,Jan  2 2026  9:58PM,Drive Completed,NO,FAIL,1,1,Uploaded
+KL,ALP154_1_ALP_P40,Jan  3 2026 11:10AM,Drive Completed,NO,FAIL,1,1,Uploaded
+KL,PMNA42_1_MLP_P40,Jan  3 2026 11:20AM,WIP,NO,Site-WIP,1,1,Not Uploaded
